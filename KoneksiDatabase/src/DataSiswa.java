@@ -262,4 +262,4 @@ public class DataSiswa extends javax.swing.JFrame {
             throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
         }
     }
-}
+} 
