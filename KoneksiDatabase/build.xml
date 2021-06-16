@@ -314,4 +314,4 @@ public class MenambahData extends javax.swing.JDialog {
         }
 
     }
-}
+} 
